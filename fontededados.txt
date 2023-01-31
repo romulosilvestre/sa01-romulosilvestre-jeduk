@@ -1,0 +1,3 @@
+Amin Gabriel,1,ok
+Gabriel,1,ok
+Fernanda,1,faltando o 6
