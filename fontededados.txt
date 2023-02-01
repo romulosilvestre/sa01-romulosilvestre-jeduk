@@ -1,3 +1,10 @@
 Amin Gabriel,1,ok
 Gabriel,1,ok
 Fernanda,1,faltando o 6
+Douglas,1,ok
+Gabriel Moreira,1,ok
+handerson mathias,1,ok
+Lucas,1,ok-elogio
+Rafael Cunha,1,ok
+Romário Araujo,1,ok
+Samuel,1,ok
